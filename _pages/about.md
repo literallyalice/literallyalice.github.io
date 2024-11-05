@@ -16,8 +16,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hey, I'm Alice! I'm an indie game developer interested in `design`, `programming` and building `procedural systems` in Houdini.
+Hey, I'm Alice! I'm an indie game developer interested in `design`, `programming` and `tool building`.
 
-After breaking into the games industry through Futuregames' Indie Game Developer `class of '20`, I've been deep-diving into building `procedural tools` both for level design and 3D generation.
+I've been deep-diving into building `procedural tools` both for `level design` and `3D generation`.
 
-Welcome to my space—where I occasionally share my ideas, projects and journey.
+Welcome to my space—where I occasionally share my ideas, projects and ramblings.
