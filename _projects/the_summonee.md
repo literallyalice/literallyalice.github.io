@@ -1,8 +1,8 @@
 ---
 layout: page
 title: The Summonee
-description: Programming 2024-
-img: assets/img/12.jpg
+description: Programming, Design (2024-)
+img: assets/img/thesummoneeheader.png
 importance: 1
 category: work
 related_publications: true
