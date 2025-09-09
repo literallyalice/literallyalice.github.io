@@ -4,7 +4,7 @@ title: The Summonee
 description: Programming, Design (2024-)
 img: assets/img/thesummoneeheader.png
 importance: 1
-category: work
+category: fun
 related_publications: true
 ---
 
